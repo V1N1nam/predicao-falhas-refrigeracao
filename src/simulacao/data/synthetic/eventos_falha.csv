@@ -1,0 +1,6 @@
+evento_id,loja_id,equipamento_id,timestamp_evento,tipo_evento,falha_confirmada,severidade,descricao
+EVT_COMP_L08_02_202601041400,L08,COMP_L08_02,2026-01-04 14:00:00,falha_compressor,1,alta,Falha simulada precedida por degradação progressiva
+EVT_COMP_L05_02_202601241015,L05,COMP_L05_02,2026-01-24 10:15:00,falha_compressor,1,alta,Falha simulada precedida por degradação progressiva
+EVT_COMP_L07_02_202601202315,L07,COMP_L07_02,2026-01-20 23:15:00,falha_compressor,1,alta,Falha simulada precedida por degradação progressiva
+EVT_COMP_L01_05_202601141715,L01,COMP_L01_05,2026-01-14 17:15:00,falha_compressor,1,alta,Falha simulada precedida por degradação progressiva
+EVT_COMP_L10_05_202601141315,L10,COMP_L10_05,2026-01-14 13:15:00,falha_compressor,1,alta,Falha simulada precedida por degradação progressiva
